@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=addition_test      # Job name
+#SBATCH --job-name=multiplication_test      # Job name
 #SBATCH --nodes=1                     # Run on a single CPU
 #SBATCH --ntasks-per-node=1           # Run with a single thread
 #SBATCH --time=00:01:00               # Time limit hrs:min:sec
