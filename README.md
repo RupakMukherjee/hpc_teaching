@@ -9,9 +9,9 @@ Contributor: [Dr. Sayan Adhikari](https://github.com/sayanadhikari)
 A series of lectures (in [Hinglish](https://en.wikipedia.org/wiki/Hinglish)) are available on youtube based on the materials archived in this repository. Click on the link provided below to access the lectures.
 
 
-[Webinar on "High Performance Computing"](https://www.youtube.com/playlist?list=PLqQV9Pmkm8qsHKtO2TUFqQiRDlAUs7li5)
+[Webinar on "High Performance Computing"](https://www.youtube.com/playlist?list=PLbX_ZyxeXxSIwXoFHHB6Vd2N4jvlyUTaQ)
 
-[![Webinar on "High Performance Computing"](http://img.youtube.com/vi/IoTquSbTgoQ/0.jpg)](https://www.youtube.com/embed/videoseries?list=PLqQV9Pmkm8qsHKtO2TUFqQiRDlAUs7li5)
+[![Webinar on "High Performance Computing"](http://img.youtube.com/vi/IoTquSbTgoQ/0.jpg)](https://www.youtube.com/embed/videoseries?list=PLbX_ZyxeXxSIwXoFHHB6Vd2N4jvlyUTaQ)
 
 # Lecture Description
 
@@ -20,7 +20,7 @@ First I talk about some basic idea about particle simulation and then enter into
 
 Lecture Video:
 
-[<img src="yt_logo_rgb_light.png" width="100">](https://youtu.be/vRbAW6apfP8)
+[<img src="yt_logo_rgb_light.png" width="100">](https://youtu.be/MeyFQNDE15o)
 
 ## Lecture 2
 
