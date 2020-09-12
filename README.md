@@ -11,7 +11,7 @@ A series of lectures (in [Hinglish](https://en.wikipedia.org/wiki/Hinglish)) are
 
 [Webinar on "High Performance Computing"](https://www.youtube.com/playlist?list=PLqQV9Pmkm8qsHKtO2TUFqQiRDlAUs7li5)
 
-[![Webinar on "High Performance Computing"](http://img.youtube.com/vi/vRbAW6apfP8/0.jpg)](https://www.youtube.com/embed/videoseries?list=PLqQV9Pmkm8qsHKtO2TUFqQiRDlAUs7li5)
+[![Webinar on "High Performance Computing"](http://img.youtube.com/vi/IoTquSbTgoQ/0.jpg)](https://www.youtube.com/embed/videoseries?list=PLqQV9Pmkm8qsHKtO2TUFqQiRDlAUs7li5)
 
 # Lecture Description
 
