@@ -21,5 +21,5 @@ A series of lectures (in [Hinglish](https://en.wikipedia.org/wiki/Hinglish)) are
 
 # Code Description
 
-## funny_script.sh
+## [funny_script.sh](https://github.com/RupakMukherjee/hpc_teaching/blob/master/funny_script.sh)
 This scripts creates a file named test_results, copies the two files named [addition.f95](https://github.com/RupakMukherjee/hpc_teaching/blob/master/addition.f95) and [multiplication.f95](https://github.com/RupakMukherjee/hpc_teaching/blob/master/multiplication.f95), changing their variable values within the codes and then creates sub-directories within the file "test_results" pastes the programs accordingly and launches the runs in any slurm type hpc cluster!
