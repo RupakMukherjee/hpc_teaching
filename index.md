@@ -16,9 +16,9 @@ A series of lectures (in [Hinglish](https://en.wikipedia.org/wiki/Hinglish)) are
 # Lecture Description
 
 # Lecture Description
-[Lecture 1](lecture1.md) | [Lecture 2](lecture2.md)
------------- | ------------- 
-[YouTube](https://youtu.be/MeyFQNDE15o)      | [YouTube](https://youtu.be/hdQ3O6RqL1M)
+| [Lecture 1](lecture1.md) | [Lecture 2](lecture2.md) |
+| ------------ | ------------- |
+| [YouTube](https://youtu.be/MeyFQNDE15o) | [YouTube](https://youtu.be/hdQ3O6RqL1M) |
 
 # Code Description
 
