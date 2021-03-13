@@ -1,1 +1,4 @@
+# Lecture 2
+
+In the first part of the lecture, I mostly revised the basic hardware structure of a computer, crude idea about connecting computers via LAN cables and thereby basic idea of multi-node computation architechture. Then I talked about potential of a Raspberry Pi to be used as a cluster for computation, explicitly showed a toy example, physical connections, basic units to make a cluster, some technical aspects, some idea of transatlantic network connectivity. Then showed some explicit example of multi-node computation in the toy Raspberry Pi cluster and finally some simple shell scripting techniques to launch multiple runs at a time. Then I touched upon some ideas about job-schedulers and few basic commands to launch, monitor and cancel jobs in any standard high-performance-clusters, available world-wide. Finally I concluded with comparison of commands in other job-schedulers available world-wide. 
 
