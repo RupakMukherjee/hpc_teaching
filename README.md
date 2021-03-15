@@ -1,6 +1,6 @@
 High Performance Computing
 ==============================
-a repository for teaching high performance computing architechture.
+a repository for teaching high performance computing architechture. The corresponding webpage is [here](https://rupakmukherjee.github.io/high-performance-computing-crash-course/)
 
 Instructor: [Dr. Rupak Mukherjee](https://github.com/RupakMukherjee)
 
