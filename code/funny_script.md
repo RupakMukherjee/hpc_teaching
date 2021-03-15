@@ -2,7 +2,7 @@
 
 ## funny_script.sh
 
-This scripts creates a file named test_results, copies the two files named [addition.f95](code/addition.md) and [multiplication.f95](code/multiplication.md), changing their variable values within the codes and then creates sub-directories within the file "test_results" pastes the programs accordingly and launches the runs in any slurm type hpc cluster!
+This scripts creates a file named test_results, copies the two files named [addition.f95](addition.md) and [multiplication.f95](multiplication.md), changing their variable values within the codes and then creates sub-directories within the file "test_results" pastes the programs accordingly and launches the runs in any slurm type hpc cluster!
 
 ```console
 mkdir -p test_results/{addition,multiplication}/values_{2.0,3.0}
