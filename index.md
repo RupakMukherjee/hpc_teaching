@@ -28,4 +28,4 @@ This scripts creates a file named test_results, copies the two files named [addi
 
 [Building High-Performance Computing (HPC) Cluster with Raspberry Pi](https://www.youtube.com/watch?v=jrAefkp8gts&t=4s)
 
-And the corresponding [GitHub](https://github.com/sayanadhikari/wipi/blob/simple/README.md) page
+And the corresponding [GitHub](https://github.com/sayanadhikari/wipi/blob/simple/README.md) page.
