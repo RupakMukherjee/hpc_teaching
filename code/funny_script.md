@@ -1,3 +1,9 @@
+# Code Description
+
+## funny_script.sh
+
+This scripts creates a file named test_results, copies the two files named addition.f95 and multiplication.f95, changing their variable values within the codes and then creates sub-directories within the file "test_results" pastes the programs accordingly and launches the runs in any slurm type hpc cluster!
+
 ```console
 mkdir -p test_results/{addition,multiplication}/values_{2.0,3.0}
 echo test_results/addition/values_{2.0,3.0} | xargs -n 1 cp addition_jobfile.sh
