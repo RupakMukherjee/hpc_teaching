@@ -22,7 +22,7 @@
 
 [Step - 10: OpenMPI](step10.md)
 
-[References]
+[References](references.md)
 
 [Live Demonstration (~ 4 hours)](https://www.youtube.com/watch?v=jrAefkp8gts&t=4s)
 
