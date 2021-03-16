@@ -1,4 +1,4 @@
-# Arutomated
+# With automated scripts
 
 Live Demonstration (~ 1.5 hours)
 
