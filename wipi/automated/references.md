@@ -1,0 +1,9 @@
+# References:
+- https://medium.com/@glmdev/building-a-raspberry-pi-cluster-784f0df9afbd
+- https://medium.com/@glmdev/building-a-raspberry-pi-cluster-aaa8d1f3d2ca
+- https://medium.com/@glmdev/building-a-raspberry-pi-cluster-f5f2446702e8
+- https://epcced.github.io/wee_archlet/
+- https://scw-aberystwyth.github.io/Introduction-to-HPC-with-RaspberryPi/
+- https://github.com/colinsauze/pi_cluster
+- https://magpi.raspberrypi.org/articles/build-a-raspberry-pi-cluster-computer
+- https://www.hydromag.eu/~aa3025/rpi/
