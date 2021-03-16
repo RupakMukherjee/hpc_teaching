@@ -24,7 +24,7 @@
 
 [References](references.md)
 
-[Live Demonstration (~ 4 hours)](https://www.youtube.com/watch?v=jrAefkp8gts&t=4s)
+[Live Demonstration (in Hindi) (~ 4 hours)](https://www.youtube.com/watch?v=jrAefkp8gts&t=4s)
 
 And the corresponding [GitHub](https://github.com/sayanadhikari/wipi/blob/simple/README.md) page.
 
