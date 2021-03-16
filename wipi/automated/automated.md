@@ -1,5 +1,9 @@
 # With automated scripts
 
+Live Demonstration (~ 1.5 hours) _Coming soon!_
+
+And the corresponding [GitHub](https://github.com/sayanadhikari/wipi/tree/automated) page.
+
 [Step - 0: The Hardware](step0.md) 
 
 [Step - 1: Prepare the Micro-SD cards for Raspberry Pi OS](step1.md)
@@ -21,7 +25,3 @@
 [Step - 9: OpenMPI](step9.md)
 
 [References](references.md)
-
-Live Demonstration (~ 1.5 hours) _Coming soon!_
-
-And the corresponding [GitHub](https://github.com/sayanadhikari/wipi/tree/automated) page.
