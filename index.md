@@ -28,6 +28,6 @@ This scripts creates a file named test_results, copies the two files named [addi
 
 ## Building High-Performance Computing (HPC) Cluster with Raspberry Pi 
 
-### [With automated scripts (~ 1.5 hour)](wipi/automated.md)
+### [With automated scripts (~ 1.5 hour)](wipi/automated/automated.md)
 
-### [A detailed manual script (~ 4 hours)](wipi/manual.md)
+### [A detailed manual script (~ 4 hours)](wipi/manual/manual.md)
