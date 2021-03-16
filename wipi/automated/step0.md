@@ -1,0 +1,11 @@
+# Step - 0: The Hardware
+ - 2x Raspberry Pi 4 Model B - for compute nodes ([Shop at raspberrypi.org](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/))
+ - 1x Raspberry Pi 4 Model B - for master/login node ([Shop at raspberrypi.org](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/))
+ - 3x MicroSD Cards (16 GB or higher) ([Shop at Amazon](https://www.amazon.com/PNY-Elite-microSDHC-Memory-3-Pack/dp/B07YXJM282/))
+ - 3x USB-C power cables ([Shop at Amazon](https://www.amazon.com/dp/B08G1HS6SL/))
+ - 1x 5-port Wireless Router ([Shop at Amazon](https://www.amazon.com/TP-Link-AC1200-WiFi-Router-Access/dp/B07RKYQGG4/))
+ - 3x CAT 5/6 Ethernet Cable ([Shop at Amazon](https://www.amazon.com/Cable-Matters-5-Pack-Snagless-Ethernet/dp/B00C2B3T6C/))
+ - 1x 5-port 10/100/1000 network switch (Optional) ([Shop at Amazon](https://www.amazon.com/NETGEAR-5-Port-Gigabit-Ethernet-Unmanaged/dp/B07S98YLHM/))
+ - 1x 6-port USB power-supply (optional) ([Shop at Amazon](https://www.amazon.com/Anker-5-Port-Charger-PowerPort-iPhone/dp/B00VH8ZW02/))
+ - 1x SSD/external HDD or Flash drive ([Shop at Amazon](https://www.amazon.com/PNY-Turbo-32GB-Flash-Drive/dp/B00FDUHD2K/))
+ - 1x Raspberry Pi 4 cluster case with cooling fan and heatsinks ([Shop at Amazon](https://www.amazon.com/GeeekPi-Cluster-Raspberry-Heatsink-Stackable/dp/B07MW24S61/))
