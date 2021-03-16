@@ -20,7 +20,7 @@
 
 [Step - 9: OpenMPI](step9.md)
 
-[References]
+[References](references.md)
 
 Live Demonstration (~ 1.5 hours) _Coming soon!_
 
