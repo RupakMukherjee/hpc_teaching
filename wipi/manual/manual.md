@@ -1,5 +1,9 @@
 # A detailed manual script
 
+[Live Demonstration (in Hindi) (~ 4 hours)](https://www.youtube.com/watch?v=jrAefkp8gts&t=4s)
+
+And the corresponding [GitHub](https://github.com/sayanadhikari/wipi/blob/simple/README.md) page.
+
 [Step - 0: The Hardware](step0.md) 
 
 [Step - 1: Prepare the Micro-SD cards for Raspberry Pi OS](step1.md)
@@ -23,8 +27,3 @@
 [Step - 10: OpenMPI](step10.md)
 
 [References](references.md)
-
-[Live Demonstration (in Hindi) (~ 4 hours)](https://www.youtube.com/watch?v=jrAefkp8gts&t=4s)
-
-And the corresponding [GitHub](https://github.com/sayanadhikari/wipi/blob/simple/README.md) page.
-
