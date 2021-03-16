@@ -1,4 +1,4 @@
-# Manual
+# A detailed manual script
 
 [Live Demonstration (~ 4 hours)](https://www.youtube.com/watch?v=jrAefkp8gts&t=4s)
 
