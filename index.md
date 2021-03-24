@@ -13,6 +13,16 @@ A series of lectures (in [Hinglish](https://en.wikipedia.org/wiki/Hinglish)) are
 
 [![Webinar on "High Performance Computing"](http://img.youtube.com/vi/IoTquSbTgoQ/0.jpg)](https://www.youtube.com/embed/videoseries?list=PLbX_ZyxeXxSIwXoFHHB6Vd2N4jvlyUTaQ)
 
+
+# Hands-on demonstration:
+
+## Building High-Performance Computing (HPC) Cluster with Raspberry Pi 
+
+### [With automated scripts (~ 1.5 hour)](wipi/automated/automated.md)
+
+### [A detailed manual script (~ 4 hours)](wipi/manual/manual.md)
+
+
 # Lecture Description
 
 | [Lecture 1](lecture1.md) | [Lecture 2](lecture2.md) |
@@ -23,11 +33,3 @@ A series of lectures (in [Hinglish](https://en.wikipedia.org/wiki/Hinglish)) are
 
 ## [funny_script.sh](code/funny_script.md)
 This scripts creates a file named test_results, copies the two files named [addition.f95](code/addition.md) and [multiplication.f95](code/multiplication.md), changing their variable values within the codes and then creates sub-directories within the file "test_results" pastes the programs accordingly and launches the runs in any slurm type hpc cluster!
-
-# Hands-on demonstration:
-
-## Building High-Performance Computing (HPC) Cluster with Raspberry Pi 
-
-### [With automated scripts (~ 1.5 hour)](wipi/automated/automated.md)
-
-### [A detailed manual script (~ 4 hours)](wipi/manual/manual.md)
