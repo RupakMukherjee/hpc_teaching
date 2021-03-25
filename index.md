@@ -34,7 +34,7 @@ A series of lectures (in [Hinglish](https://en.wikipedia.org/wiki/Hinglish)) are
 ## [funny_script.sh](code/funny_script.md)
 This scripts creates a file named test_results, copies the two files named [addition.f95](code/addition.md) and [multiplication.f95](code/multiplication.md), changing their variable values within the codes and then creates sub-directories within the file "test_results" pastes the programs accordingly and launches the runs in any slurm type hpc cluster!
 
-# Lecture description
+# Hands-on Coding Lectures
 
 Part of this series of lectures heavily relate to another series I discussed on another crash course on pseudo-spectral algorithms. I reference the appropriate lectures of the pseudo-spectral series below:
 
