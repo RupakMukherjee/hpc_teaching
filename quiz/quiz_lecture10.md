@@ -4,7 +4,7 @@ I added some comments at the end of the program that we just wrote today. If you
     
 Also, further at the end, it will print your Quiz - 8!
 
-And finally what if, I send you a file and ask, what does [this program](https://rupakmukherjee.github.io/pseudo-spectral-crash-course/code/poisson_3d_hybrid.html) do?
+And finally what if, I send you a file and ask, what does [this program](../code/poisson_3d_hybrid.md) do?
 To compile and run this file, you may use the following command:
 
 ```console
@@ -12,5 +12,5 @@ $ mpif90 -fopenmp -I/usr/local/include -L/usr/local/lib poisson_3d_hybrid.f95 -l
 ```
 
 ### Quiz - 6: 
-Can you turn the code [hybrid_do.f95](https://rupakmukherjee.github.io/pseudo-spectral-crash-course/code/hybrid_do.html) into a 3d hybrid Poisson solver?
+Can you turn the code [hybrid_do.f95](../code/hybrid_do.md) into a 3d hybrid Poisson solver?
 If you can solve Quiz - 9, this course is over!!!
