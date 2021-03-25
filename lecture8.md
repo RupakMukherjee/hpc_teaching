@@ -1,0 +1,2 @@
+# Lecture 8: 
+Here I started with some 'funny' movies (both hydrodynamics and plasmas) and don't know how, got drifted towards my favourite stereographic projection and topology while talking about periodic boundary condition. Finally I could hold myself and came back to simulation discussions on bounded flows using spectral methods. In the second half of the lecture, I talked about basic ideas about multi-core and multi-node parallelization and its simple numerical implementations, explicitly showing how to parallelize "do-loops" for OpenMP and MPI architechtures.
