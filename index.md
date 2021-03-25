@@ -43,7 +43,7 @@ This scripts creates a file named test_results, copies the two files named [addi
 [Lecture 8](lecture8.md) | [Lecture 9](lecture9.md) | [Lecture 10](lecture10.md) | [Lecture 11](lecture11.md)
 ------------- | ------------ | ------------- | ------------
 [Resources](resources/resource_lecture8.md) | [Resources](resources/resource_lecture9.md) | [Resources](resources/resource_lecture10.md)  | [Resources](resources/resource_lecture11.md)
-| None      | None      | [Quiz](quiz/quiz_lecture10.md)       | None
+None      | None      | [Quiz](quiz/quiz_lecture10.md)       | None
 [YouTube](https://youtu.be/b35LvlSZOuc)      | [YouTube](https://youtu.be/7FRiqSK6mBU)      | [YouTube](https://youtu.be/87KAvsfV73w)       | [YouTube](https://youtu.be/mrAoE4lFvas)
 
 # Code Reference
