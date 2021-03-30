@@ -1,6 +1,6 @@
 # With automated scripts
 
-Live Demonstration (~ 1.5 hours) _Coming soon!_
+[Live Demonstration (~ 1.5 hours)](https://www.youtube.com/watch?v=buPECbwdRe8)
 
 And the corresponding [GitHub](https://github.com/sayanadhikari/wipi/tree/automated) page.
 
